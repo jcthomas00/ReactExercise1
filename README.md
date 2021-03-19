@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2442,3 +2443,9 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# Udacity React Exercise1
+Use React to display a list of users alongside their favorite movies
+* Using create-react-app
+* Pass methods via props
+>>>>>>> bb18eba916e7f8ed45905b2fbac243937d4cff20
