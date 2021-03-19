@@ -2,7 +2,7 @@
 Use React to display a list of users alongside their favorite movies
 * Using create-react-app
 * Pass methods via props
-* 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
